@@ -1,0 +1,1 @@
+This is a simple excercise to acquire variables through a get route and send json data to a page.
